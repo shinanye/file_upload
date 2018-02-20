@@ -1,0 +1,2 @@
+img:image/png,image/jpeg,image/gif
+word:text/plain,application/msword
